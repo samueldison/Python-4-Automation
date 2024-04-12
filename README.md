@@ -1,4 +1,5 @@
 # Python-4-Automation
+
 <h1 align="center">EC2 Server Management Script</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
@@ -6,10 +7,10 @@
 </p>:
 
 # Overview
-This repository show cases the use of the Python programming language in automating tasks in the field of DevOps.It employs the use of AWS Boto3 SDK for Python.
+This repository show cases the use of the Python programming language to automate tasks in the field of DevOps.It employs the use of AWS Boto3 SDK for Python.
 
 As a strategy, I demonstrate how the Python program can be improved upon and made more robust and dynamic based on its use case.
-These Python scripts are designed to manage EC2 servers in AWS by stopping instances tagged with specific values. It automates the process of stopping EC2 instances to save costs or manage resources efficiently.
+These Python script automates the management of EC2 servers in AWS, providing an efficient way to stop instances based on specific tag values. Whether you're looking to save costs by stopping idle instances or streamline resource management, this script has you covered.
 
 # Functionality
 *The script performs the following tasks:*
@@ -39,5 +40,4 @@ The script incorporates error handling to gracefully handle potential issues tha
 1. Ensure that you have Python 3.x installed on your system.
 2. Install the boto3 library using pip install boto3.
 3. Create a file named tags.txt in the same directory as the script. Each line in the file should contain a tag value for identifying EC2 instances.
-4. Run the script using python script.py
-
+4. Run the script using python script.py.
