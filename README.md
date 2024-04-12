@@ -33,6 +33,7 @@ The script incorporates error handling to gracefully handle potential issues tha
 
 # Requirements
 **Python 3.x**
+
 **boto3 library for AWS interactions (install via pip install boto3)**
 
 # Usage
