@@ -10,7 +10,7 @@
 
 This Python script automates the management of EC2 servers in AWS, providing an efficient way to stop instances based on specific tag values. Whether you're looking to save costs by stopping idle instances or streamline resource management, this script has you covered.
 
-{ Features
+# Features
 
 Simple Configuration: Just provide tag values in a tags.txt file, and the script handles the rest.
 Error Handling: Gracefully handles errors like missing files or unexpected API responses.
