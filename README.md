@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/AWS-Boto3-yellow.svg" alt="AWS Boto3 Library">
-</p>:
+</p>
 
 # Overview
 This repository show cases the use of the Python programming language to automate tasks in the field of DevOps.It employs the use of AWS Boto3 SDK for Python.
