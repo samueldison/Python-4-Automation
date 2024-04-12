@@ -32,9 +32,8 @@ The script incorporates error handling to gracefully handle potential issues tha
 *Other Exceptions:* Any other exceptions encountered during file reading, instance processing, or instance stopping are logged, allowing the script to continue execution without crashing.
 
 # Requirements
-**Python 3.x**
-
-**boto3 library for AWS interactions (install via pip install boto3)**
+1. **Python 3.x**
+2. **boto3 library for AWS interactions (install via pip install boto3)**
 
 # Usage
 1. Ensure that you have Python 3.x installed on your system.
