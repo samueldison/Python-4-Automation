@@ -1,6 +1,6 @@
 # Python-4-Automation
 
-<h1 align="center">EC2 Server Management Script</h1>
+<h1 align="center">EC2 Server Management Script & More</h1>
 <p align="center">
   <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/Python-3.x-blue.svg" alt="Python Version"></a>
   <a href="https://boto3.amazonaws.com/v1/documentation/api/latest/index.html"><img src="https://img.shields.io/badge/AWS-Boto3-yellow.svg" alt="AWS Boto3 Library"></a>
