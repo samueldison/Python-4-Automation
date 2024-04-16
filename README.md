@@ -46,4 +46,4 @@ The script incorporates error handling to gracefully handle potential issues tha
 *Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.*  
 
 # Email Address
-*samuelhaddison71@gmail.com
+*samuelhaddison71@gmail.com*
