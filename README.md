@@ -41,3 +41,6 @@ The script incorporates error handling to gracefully handle potential issues tha
 2. Install the boto3 library using: pip install boto3.
 3. Create a file named tags.txt in the same directory as the script. Each line in the file should contain a tag value for identifying EC2 instances.
 4. Run the script using python script.py.
+
+ # Contributions
+*Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.*  
