@@ -12,7 +12,7 @@
 This repository show cases the use of the Python programming language to automate tasks in the field of DevOps.It employs the use of AWS Boto3 SDK for Python.
 
 As a strategy, I demonstrate how the Python program can be improved upon and made more robust and dynamic based on its use case.
-These Python script automates the management of EC2 servers in AWS, providing an efficient way to stop instances based on specific tag values. Whether you're looking to save costs by stopping idle instances or streamline resource management, this script has you covered.
+These Python scripts automates the management of EC2 servers in AWS, providing an efficient way to stop instances based on specific tag values. Whether you're looking to save costs by stopping idle instances or streamline resource management, this script has you covered.
 
 # Functionality
 *The script performs the following tasks:*
